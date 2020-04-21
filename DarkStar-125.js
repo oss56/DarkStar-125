@@ -1,7 +1,7 @@
 // ==UserScript==
-// @name         Sajan
+// @name         sa
 // @namespace    https://github.com/DarkStar-125
-// @version      1.8.4
+// @version      2.2.8
 // @description  WheelChair
 // @author       dxt x str x MasterX
 // @match        *://krunker.io/*
